@@ -1,7 +1,7 @@
 Package.describe({
-    summary: "Cheerio for meteor",
+    summary: "Cheerio for Meteor",
     version: "1.0.0",
-    name: "rl:cheerio",
+    name: "rclai89:cheerio",
     git: "https://github.com/rclai/meteor-cheerio.git"
 });
 
