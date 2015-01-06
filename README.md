@@ -1,6 +1,9 @@
 [cheerio](https://github.com/cheeriojs/cheerio)
 
-Add packages to your project by using command
+Add packages to your project by using command.
+
+Fork created because they were not maintaining the NPM dependency.
+
 ###
-    meteor add particle4dev:cheerio
+    meteor add rl:cheerio
 ###

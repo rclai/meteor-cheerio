@@ -2,7 +2,7 @@ Package.describe({
     summary: "Cheerio for meteor",
     version: "1.0.0",
     name: "rl:cheerio",
-    git: "https://github.com/particle4dev/meteor-cheerio.git"
+    git: "https://github.com/rclai/meteor-cheerio.git"
 });
 
 Npm.depends({cheerio: "0.18.0"});
