@@ -1,3 +1,6 @@
+### No longer maintained
+Use `meteorhacks:npm` instead to add the `cheerio` library to your app.
+
 [cheerio](https://github.com/cheeriojs/cheerio)
 
 Add packages to your project by using command.
